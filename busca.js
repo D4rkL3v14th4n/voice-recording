@@ -37,7 +37,7 @@
                     document.body.style.backgroundColor = '#33cc99';
                     break;
                 case 'dark':
-                    document.body.style.backgroundColor = '#047751';
+                    document.body.style.backgroundColor = '#1C1C1C';
                     break;
                 case 'my home page':
                     window.location.href = 'https://www.jetersonlordano.com.br';
