@@ -40,7 +40,7 @@
                     document.body.style.backgroundColor = '#1C1C1C';
                     break;
                 case 'my home page':
-                    window.location.href = 'https://www.jetersonlordano.com.br';
+                    window.location.href = 'https://www.google.com.br';
                     break;
                 case 'átila':
                     reproduzir("átila onii-tchan");
